@@ -1,0 +1,14 @@
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\Conditionals_BarnettLandon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\Conditionals_BarnettLandon.AssemblyInfoInputs.cache
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\Conditionals_BarnettLandon.AssemblyInfo.cs
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\Conditionals_BarnettLandon.csproj.CoreCompileInputs.cache
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\bin\Debug\net6.0\Conditionals_BarnettLandon.exe
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\bin\Debug\net6.0\Conditionals_BarnettLandon.deps.json
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\bin\Debug\net6.0\Conditionals_BarnettLandon.runtimeconfig.json
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\bin\Debug\net6.0\Conditionals_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\bin\Debug\net6.0\Conditionals_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\Conditionals_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\refint\Conditionals_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\Conditionals_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\Conditionals_BarnettLandon.genruntimeconfig.cache
+C:\Users\LandonBarnett\source\repos\Conditionals_BarnettLandon\Conditionals_BarnettLandon\obj\Debug\net6.0\ref\Conditionals_BarnettLandon.dll

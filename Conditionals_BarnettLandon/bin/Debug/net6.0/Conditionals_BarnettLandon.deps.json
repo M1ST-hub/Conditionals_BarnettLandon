@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Conditionals_BarnettLandon/1.0.0": {
+        "runtime": {
+          "Conditionals_BarnettLandon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditionals_BarnettLandon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
